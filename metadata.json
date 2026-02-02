@@ -1,0 +1,7 @@
+{
+  "name": "Daily Mastery",
+  "description": "A gamified social platform for setting, sharing, and completing N-day challenges with task customization, rewards, and burnout protection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
